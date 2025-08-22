@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x 1-confused_smiley
+echo "\"(Ôo)'"
